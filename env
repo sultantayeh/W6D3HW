@@ -1,0 +1,5 @@
+FLASK_APP=rangers_shop
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY='Rangers'
+DATABASE_URL=postgresql://bqujrysk:RQovPbWdQHexVXHa56chK5ojXkLm5zyX@rajje.db.elephantsql.com/bqujrysk
